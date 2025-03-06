@@ -5,7 +5,7 @@ Comedown Offline Web is a simple, customizable element that you can add to your 
 - *HTML* 
 - *CSS* 
 - *JSVA*
-- 
+
 ## Features:
 *Features of DownWeb-Offline*
 
